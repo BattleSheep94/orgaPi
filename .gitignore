@@ -1,0 +1,11 @@
+# Python bytecode / cache
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Test-Artefakte
+test_output.txt
+session_log_*.json
+
+# WARP guidance (lokal, nicht versioniert)
+WARP.md
